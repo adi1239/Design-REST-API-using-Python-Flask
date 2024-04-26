@@ -10,5 +10,7 @@ User can perform GET and POST functions.
 
 CURL or POSTMAN can be used to testout the RESTful API.
 
+Here, I'm demonstrating using a book example to experiment out with the RESTful commands.
+
 
 
